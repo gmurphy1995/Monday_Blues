@@ -2,6 +2,8 @@
 
 ## This is a smaller heading
 
+## Smaller update practice heading made on new branch
+
 Praciting commiting stuff via text files
 
 No better way to spend a Monday
