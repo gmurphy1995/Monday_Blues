@@ -16,10 +16,10 @@ No better way to spend a Monday
 
 here is 'some code' sentence
 
-'''
+```
 Block of 
 Code
-'''
+```
 
 Here is how you a make [a link](https://github.com/gmurphy1995/Monday_Blues)
 
